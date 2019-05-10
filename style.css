@@ -59,7 +59,8 @@ input{
     margin: auto;
   }
 
-  input[type="text"] {
+  input[type="text"],
+	input[type="tel"] 	{
     width: 70%;
     border-radius: 5px;
     margin:.2em 3em.2em 3em;
@@ -117,7 +118,8 @@ input{
     padding: 10px 10px;
     } 
     
-  input[type="text"] {
+  input[type="text"],
+	input[type="tel"]  {
     width: 60%;
     border-radius: 5px;
     margin: .3em 11em;
