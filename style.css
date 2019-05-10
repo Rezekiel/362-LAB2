@@ -7,7 +7,7 @@ html{
 body{
   font-family: 'Exo', sans-serif;
   color: black;
-  background-color:#F0F0F0;
+  background-color:#DCDCDC	;
   padding-top:20px;
 
 }
@@ -81,7 +81,7 @@ input{
 @media screen and (min-width: 658px) {
   
   body{
-    background-color: white;
+    background-color: #DCDCDC	;
   }
   
   form{
